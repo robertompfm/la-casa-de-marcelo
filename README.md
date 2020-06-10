@@ -1,5 +1,5 @@
 # La Casa de Marcelo
-This is a simple game originally created as UNIESP introduction to programming final project. 
+This is a simple game originally created as UNIESP's Introduction to Programming final project. 
 
 In this game you are ~~Iria Guazzi~~ a student of one of the courses taught by Prof. Marcelo, and has received bad grades. And, in order to save your semester, you have invaded the Professor's house and are about to change your grades on his records, but to access his computer you will need to solve an enigma. You have 5 minutes to figure out the answer for the enigma before Prof. Marcelo comes back from the theater, you are free to walk around his room and try to find clues.
 
